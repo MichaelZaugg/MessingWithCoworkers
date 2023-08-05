@@ -1,0 +1,15 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.tallahassee.com	TRUE	/	FALSE	1999999999	gup_anonid	e9334c1f-5be4-46b4-a48d-abf87a3daf83
+.tallahassee.com	TRUE	/	FALSE	1999999999	gup_clientid	9e98155c-4524-4cee-91dc-f190af7a7b0e
+www.tallahassee.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+www.tallahassee.com	TRUE	/	FALSE	1999999999	Priority	High
+.tallahassee.com	TRUE	/	FALSE	1999999999	gnt_ub	1
+.tallahassee.com	TRUE	/	FALSE	1999999999	gnt_sb	1
+www.tallahassee.com	TRUE	/	FALSE	1999999999	gnt_w	95~7-q1a2z3371d08dc~Cloudy
+.tallahassee.com	TRUE	/	FALSE	1999999999	gnt_eid	(null)
+.tallahassee.com	TRUE	/	FALSE	1999999999	gnt_bot	HTTrack
+.tallahassee.com	TRUE	/	FALSE	1999999999	gnt_i	67217974878677270825*395846*US~ID~rexburg~83460
+www.tallahassee.com	TRUE	/	FALSE	1999999999	samesite	lax
+www.tallahassee.com	TRUE	/	FALSE	1999999999	priority	high
+

@@ -1,0 +1,23 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 04 Aug 2023 17:05:39 at https://www.tallahassee.com/story/news/politics/2023/08/04/desantis-calls-trumps-stolen-election-claims-unsubstantiated/70532030007/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.tallahassee.com/story/news/politics/2023/08/04/desantis-calls-trumps-stolen-election-claims-unsubstantiated/70532030007/ -O1 "C:\Users\bytea\OneDrive\Desktop\fakeweb\FakeNews" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:05:48	Warning: 	https://www.tallahassee.com/errors/404/ for https://www.tallahassee.com/story/news/politics/2023/08/04/desantis-calls-trumps-stolen-election-claims-unsubstantiated/70532030007/m.href/
+17:05:48	Warning: 	File has moved from https://www.tallahassee.com/story/news/politics/2023/08/04/desantis-calls-trumps-stolen-election-claims-unsubstantiated/70532030007/m.href/ to https://www.tallahassee.com/errors/404/
+17:05:48	Warning: 	https://www.tallahassee.com/errors/404/ for https://www.tallahassee.com/story/news/politics/2023/08/04/desantis-calls-trumps-stolen-election-claims-unsubstantiated/70532030007/pubads_impl.js/
+17:05:48	Warning: 	File has moved from https://www.tallahassee.com/story/news/politics/2023/08/04/desantis-calls-trumps-stolen-election-claims-unsubstantiated/70532030007/pubads_impl.js/ to https://www.tallahassee.com/errors/404/
+17:05:48	Warning: 	https://www.tallahassee.com/errors/404/ for https://www.tallahassee.com/story/news/politics/2023/08/04/desantis-calls-trumps-stolen-election-claims-unsubstantiated/70532030007/shared-id/pubcid.js/
+17:05:48	Warning: 	File has moved from https://www.tallahassee.com/story/news/politics/2023/08/04/desantis-calls-trumps-stolen-election-claims-unsubstantiated/70532030007/shared-id/pubcid.js/ to https://www.tallahassee.com/errors/404/
+17:05:48	Warning: 	https://www.tallahassee.com/errors/404/ for https://www.tallahassee.com/story/news/politics/2023/08/04/desantis-calls-trumps-stolen-election-claims-unsubstantiated/70532030007/uid2SecureSignal.js/
+17:05:48	Warning: 	File has moved from https://www.tallahassee.com/story/news/politics/2023/08/04/desantis-calls-trumps-stolen-election-claims-unsubstantiated/70532030007/uid2SecureSignal.js/ to https://www.tallahassee.com/errors/404/
+17:05:48	Warning: 	https://www.tallahassee.com/errors/404/ for https://www.tallahassee.com/story/news/politics/2023/08/04/desantis-calls-trumps-stolen-election-claims-unsubstantiated/70532030007/openxcdn.net/esp.js/
+17:05:48	Warning: 	File has moved from https://www.tallahassee.com/story/news/politics/2023/08/04/desantis-calls-trumps-stolen-election-claims-unsubstantiated/70532030007/openxcdn.net/esp.js/ to https://www.tallahassee.com/errors/404/
+17:05:48	Warning: 	https://www.tallahassee.com/errors/404/ for https://www.tallahassee.com/story/news/politics/2023/08/04/desantis-calls-trumps-stolen-election-claims-unsubstantiated/70532030007/q.destUrl/
+17:05:48	Warning: 	File has moved from https://www.tallahassee.com/story/news/politics/2023/08/04/desantis-calls-trumps-stolen-election-claims-unsubstantiated/70532030007/q.destUrl/ to https://www.tallahassee.com/errors/404/
+
+HTTrack Website Copier/3.49-2 mirror complete in 9 seconds : 28 links scanned, 21 files written (3646945 bytes overall) [1617885 bytes received at 179765 bytes/sec], 2624637 bytes transferred using HTTP compression in 15 files, ratio 21%, 1.5 requests per connection
+(No errors, 12 warnings, 0 messages)
